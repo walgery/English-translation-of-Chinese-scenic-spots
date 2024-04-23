@@ -12,8 +12,8 @@
 |雍和宫|Yong He Gong|Yonghe Lama Temple|
 |景山公园|Jing Shan Gong Yuan|Jingshan Park|
 |北海公园|Bei Hai Gong Yuan|Beihai Park|
-|明十三陵|Ming Shi San Ling| the Ming Tombs|
+|明十三陵|Ming Shi San Ling| The Ming Tombs|
 |人民英雄纪念碑|Ren Min Ying Xiong Ji Nian Bei| Monument to the People's Heroes|
-|人民大会堂|Ren Min Da Hui Tang| the Great Hall of the People|
+|人民大会堂|Ren Min Da Hui Tang| The Great Hall of the People|
 |北京大学 |Bei Jing Da Xue|Peking University|
 |清华大学 |Qing Hua Da Xue|Tsinghua University|
