@@ -4,13 +4,16 @@
 
 | Chinese Hanzi | Chinese Pinyin| English Name |
 |-- |-- |--|
-| 和坊街 | He Fang Jie| Hefang Street |
+|和坊街 | He Fang Jie| Hefang Street |
 |灵隐寺| Ling Yin Si|  Lingyin Temple|
 |西湖 |Xi Hu|West Lake|
 |楼外楼 |Lou Wai Lou|Lou Wailou Restaurant|
+|雷峰塔|Lei Feng Ta|Lei Feng Pagoda|
+|苏堤|Su Di|Su Causeway|
+|三潭印月|San Tan Yin Yue|Three Pools Mirroring the Moon|
 |西泠印社 |Xi Ling Yin She|Xiling Seal-Engravers' Society|
 |苏小小墓 |Su Xiao Xiao Mu| Su Xiaoxiao Tomb|
-| 岳飞庙和墓 |Yue Fen Mu|Yue Fei Tomb|
+|岳飞墓 |Yue Fen Mu|Yue Fei Tomb|
 |杨公堤 |Yang Gong Di|Yang Gong Causeway |
 |涌金池 |Yong Jin Chi|Yongjin Pool |
 |钱王祠 |Qian Wang Ci|King Qian's Temple |
