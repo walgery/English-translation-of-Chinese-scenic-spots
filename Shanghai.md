@@ -1,4 +1,4 @@
-## Scenic Spots of Shanghai
+## Scenic Spots of Shanghai, 上海
 
 | Chinese Hanzi | Chinese Pinyin| English Name |
 |-- |-- |--|
