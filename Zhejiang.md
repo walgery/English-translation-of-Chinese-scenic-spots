@@ -27,6 +27,7 @@
 |-- |-- |--|
 |天一阁| Tian Yi Ge|Tianyi Pavilion |
 |东钱湖|Dong Qian Hu|Dongqian Lake|
+|绍兴黄酒|Shao Xing Huang Jiu|Shaoxing rice wine|
 
 
 
