@@ -1,8 +1,8 @@
-# Translations_for_Chinese_Scenic_Spots
+### English_Translations_for_Chinese_Scenic_Spots
 
 You are welcome to contribute to the project
 
-## The most common pronunciation errors in Chinese Pinyin for Non-Chinese, remember there is only one way to pronounce the syllable in Pinyin
+##### The most common pronunciation errors in Chinese Pinyin for Non-Chinese, remember there is only one way to pronounce the syllable in Pinyin
 ---------------------------------
 1. O: /ɔ/ in Pinyin, e.g. 你好 Ni Hao /ni/ /hɔ/
 2. AN: /æn/ in Pinyin, e.g. 饭 Fan /fæn/
