@@ -27,7 +27,7 @@
 |-- |-- |--|
 |天一阁| Tian Yi Ge|Tianyi Pavilion |
 |东钱湖|Dong Qian Hu|Dongqian Lake|
-|绍兴黄酒|Shao Xing Huang Jiu|Shaoxing rice wine|
+|绍兴黄酒|Shao Xing Huang Jiu|Shaoxing Rice Wine|
 
 
 
@@ -40,4 +40,4 @@
 |东湖|Dong Hu|Donghu Lake|
 |兰亭|Lan Ting|Lanting Pavilion|
 |仓桥直街|Cang Qiao Zhi Jie|Cangqiao Street|
-|乌篷船|Wu Peng Chuan|Wupeng boat|
+|乌篷船|Wu Peng Chuan|Wupeng Boat|
