@@ -1,4 +1,4 @@
-## scenic spots of Beijing
+## Scenic Spots of Beijing, 背景
 
 | Chinese Hanzi | Chinese Pinyin| English Name |
 |-- |-- |--|
