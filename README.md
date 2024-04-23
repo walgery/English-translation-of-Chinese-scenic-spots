@@ -1,4 +1,4 @@
-### English_Translations_for_Chinese_Scenic_Spots
+### English Translation of Chinese Scenic Spots
 
 You are welcome to contribute to the project
 
