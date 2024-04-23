@@ -1,4 +1,4 @@
-## scenic spots
+## scenic spots of Beijing
 
 | Chinese Hanzi | Chinese Pinyin| English Name |
 |-- |-- |--|
@@ -15,3 +15,5 @@
 |明十三陵|Ming Shi San Ling| the Ming Tombs|
 |人民英雄纪念碑|Ren Min Ying Xiong Ji Nian Bei| Monument to the People's Heroes|
 |人民大会堂|Ren Min Da Hui Tang| the Great Hall of the People|
+|北京大学 |Bei Jing Da Xue|Peking University|
+|清华大学 |Qing Hua Da Xue|Tsinghua University|
